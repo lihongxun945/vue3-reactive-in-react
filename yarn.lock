@@ -1693,6 +1693,11 @@
     semver "^6.3.0"
     tsutils "^3.17.1"
 
+"@vue/shared@^3.0.0-rc.5":
+  version "3.0.0-rc.5"
+  resolved "https://registry.npm.alibaba-inc.com/@vue/shared/download/@vue/shared-3.0.0-rc.5.tgz#cea2378e3e37363ddc1f5dd158edc9c9b5b3fff0"
+  integrity sha1-zqI3jj43Nj3cH13RWO3JybWz//A=
+
 "@webassemblyjs/ast@1.8.5":
   version "1.8.5"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/ast/-/ast-1.8.5.tgz#51b1c5fe6576a34953bf4b253df9f0d490d9e359"
